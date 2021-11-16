@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ben
+* source:	https://sketchfab.com/3d-models/ben-6568c7991b8e4a568d559e301dfbd641
+* author:	Evanllelos (https://sketchfab.com/evanllelos2000)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ben" (https://sketchfab.com/3d-models/ben-6568c7991b8e4a568d559e301dfbd641) by Evanllelos (https://sketchfab.com/evanllelos2000) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
